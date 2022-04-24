@@ -1,4 +1,4 @@
-# diabetic-prediction
+# diabetic-prediction (SVM)
 prediction weather a person is diabetic or not.
 here I got accuracy of training is approximately 78% and accuracy of testing is apprpximately 77%.
 I think it is somewhat low due to the following reasons.
